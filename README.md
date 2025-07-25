@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm new to all this. Looks like it's going to be quite a journey!
 <!--
 **grigsyboy/grigsyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
